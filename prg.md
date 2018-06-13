@@ -1,4 +1,4 @@
-# Curso/Taller Classroom
+# Curso/Taller Google Apps
 
 Classroom es una red social privada entre alumnos y/o profesores, un lugar donde se logra la comunicación académica a travéz de "colgar" novedades, debates, material multimedia y la asignación de tareas (Rosa Liarte Alcaine, 2018).
 
