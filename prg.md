@@ -31,19 +31,35 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
     <li>Crea preguntas para debates y participación</li>
     <li>Reutilizar publicaciones</li>
   </ul>
-
-
 </ul>
 <li>Publicaciones en Google Classroom</li>
 <ul>
 <li>Anuncios</li>
+  <ul>
+    <li>Notificar a todo los alumnos</li>
+    <li>Adjuntar archivos, carpetas o links</li>
+    <li>Reutilizar publicaciones en varias clases</li>
+  </ul>
 <li>Tarea</li>
+  <ul>
+    <li>Asignar tareas con fecha de caducidad</li>
+    <li>Chat con alumnos</li>
+    <li>Devolución de tareas</li>
+    <li>Compartir documentos</li>
+    <li>Administrar la entrega de tareas</li>
+  </ul>
 <li>Crear pregunta</li>
+  <ul>
+    <li>Crear una pregunta o debate</li>
+    <li>Moderador</li>
+    <li>Participación</li>
+  </ul>
 <li>Reutilizar Publicación</li>
+  <ul>
+    <li>Reutilizar anuncios, tareas o preguntas</li>
+    <li>Reutilizar clases</li>
+  </ul>
 </ul>
 <li>Referencias</li>
-<li></li>
-<li></li>
-
 <ul>
 
