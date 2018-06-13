@@ -22,7 +22,4 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 <li>Reutilizar Publicación</li>
 </ul>
 <li>Referencias</li>
-<li></li>
-<li></li>
-
 <ul>
