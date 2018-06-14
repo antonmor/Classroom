@@ -65,6 +65,19 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 </ul>
 
 <ul>
+  <li>Cómo crear, editar y dar formato en Google Formulario</li>
+  <ul>
+    <li>Usar Formularios de Google</li>
+    <li>Crear y evaluar tests de autoevaluación con Formularios de Google</li>
+    <li>Editar un formulario</li>
+    <li>Elegir una pregunta para tu formulario</li>
+    <li>Añadir un tema a un formulario</li>
+    <li>Mostrar preguntas basadas en respuestas</li>
+    <li>Compartir un formulario con colaboradores</li>
+  </ul>
+</ul>
+
+<ul>
 <li>Introducción a Classroom</li>
 <li>Crear clase</li>
 <li>Personalizar Clase</li>
@@ -126,6 +139,8 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 # Referencias
   
   Support.google.com. (2018). Ayuda de Google Drive. [online] Available at: https://support.google.com/drive/?hl=es#topic=7000947 [Accessed 14 Jun. 2018].
+
+  Support.google.com. (2018). Ayuda de Calendario de Google. [online] Available at: https://support.google.com/calendar/?hl=es#topic=3417969 [Accessed 14 Jun. 2018].
 
   Support.google.com. (2018). Ayuda de Classroom. [online] Available at: https://support.google.com/edu/classroom/?hl=es#topic=6020278 [Accessed 14 Jun. 2018].
 
