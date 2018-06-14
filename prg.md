@@ -40,6 +40,31 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 </ul>
 
 <ul>
+  <li>Eventos en Google Calendar</li>
+    <ul>
+      <li>Crear un evento</li>
+      <li>Invitar a personas a un evento de Calendar</li>
+      <li>Cambiar la configuración de privacidad</li>
+      <li>Contestar a las invitaciones a eventos</li>
+      <li>Eliminar un evento</li>
+      <li>Transferir calendarios o eventos de Google</li>
+      <li>Invitar a grupos a eventos de un calendario</li>
+      <li>Usar los espacios para citas de Google Calendar</li>
+    </ul>
+  <li>Calendarios en Google Calendar</li>
+    <ul>
+      <li>Compartir tu calendario</li>
+      <li>Crear calendarios o suscribirte a ellos</li>
+      <li>Editar un calendario</li>
+      <li>Ver un día, una semana o un mes</li>
+      <li>Ver tu calendario sin conexión</li>
+      <li>Imprimir calendarios</li>
+      <li>Buscar en Google Calendar</li>
+      <li>Ver la disponibilidad del calendario de alguien</li>  
+   </ul>
+</ul>
+
+<ul>
 <li>Introducción a Classroom</li>
 <li>Crear clase</li>
 <li>Personalizar Clase</li>
@@ -98,7 +123,9 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 <li>Referencias</li>
 <ul>
 
-#Referencias
+# Referencias
+  
+  Support.google.com. (2018). Ayuda de Google Drive. [online] Available at: https://support.google.com/drive/?hl=es#topic=7000947 [Accessed 14 Jun. 2018].
 
   Support.google.com. (2018). Ayuda de Classroom. [online] Available at: https://support.google.com/edu/classroom/?hl=es#topic=6020278 [Accessed 14 Jun. 2018].
 
