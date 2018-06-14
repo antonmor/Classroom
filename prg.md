@@ -1,9 +1,44 @@
-# Curso/Taller Classroom
+# Curso/Taller Google Apps
 
 Classroom es una red social privada entre alumnos y/o profesores, un lugar donde se logra la comunicación académica a travéz de "colgar" novedades, debates, material multimedia y la asignación de tareas (Rosa Liarte Alcaine, 2018).
 
 
 # Contenido
+<ul>
+  <li>Guardar archivos en Google Drive</li>
+    <ul>
+      <li>Subir archivos y carpetas a Google Drive </li>
+      <li>Descargar un archivo</li>
+      <li>Archivos que se pueden guardar en Google Drive</li>
+      <li>Ver y abrir archivos</li>
+      <li>Guardar y reproducir vídeos en Google Drive</li>
+      <li>Guardar, editar y compartir archivos de Microsoft Office</li>
+      <li>Guardar contenidos web en Google Drive</li>
+      <li>Convertir archivos PDF y de imagen en texto</li>     
+    </ul>
+  <li>Organizar y encontrar tus archivos</li>
+    <ul>
+      <li>Organizar tus archivos en Google Drive</li>
+      <li>Eliminar y restaurar archivos en Google Drive</li>
+      <li>Encontrar o recuperar un archivo</li>
+      <li>Buscar archivos en Google Drive</li>
+      <li>Ver tus fotos de Google Fotos en Google Drive</li>
+      <li>Ordenar archivos</li>
+      <li>Ver la actividad y las versiones de los archivos</li>
+      <li>Utilizar aplicaciones de Google Drive</li>
+      <li>Cambiar la configuración de las notificaciones</li>
+    </ul>
+  <li>Compartir archivos con Google Drive</li> 
+    <ul>
+      <li>Compartir archivos desde Google Drive</li>
+      <li>Dejar de compartir o limitar o cambiar la configuración para compartir</li>
+      <li>Asignar la propiedad de un archivo a otra persona</li>
+      <li>Compartir carpetas en Google Drive</li>
+      <li>Compartir archivos con unidades de equipo</li>
+      <li>Personas anónimas o desconocidas en un archivo</li>
+    </ul> 
+</ul>
+
 <ul>
 <li>Introducción a Classroom</li>
 <li>Crear clase</li>
@@ -25,7 +60,7 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
     <li>Comparte tu código de clase</li>
   </ul>
 <li>Módulo de Novedades</li>
-  <<ul>
+  <ul>
     <li>Crear anuncios</li>
     <li>Asignar tareas</li>
     <li>Crea preguntas para debates y participación</li>
@@ -62,4 +97,8 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
 </ul>
 <li>Referencias</li>
 <ul>
+
+#Referencias
+
+  Support.google.com. (2018). Ayuda de Classroom. [online] Available at: https://support.google.com/edu/classroom/?hl=es#topic=6020278 [Accessed 14 Jun. 2018].
 
