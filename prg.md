@@ -74,9 +74,10 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
     <li>Añadir un tema a un formulario</li>
     <li>Mostrar preguntas basadas en respuestas</li>
     <li>Compartir un formulario con colaboradores</li>
+    <li>Descargar datos del formulario</li>
+    <li>Crear plantillas en Word apartir de Google Formulario</li>
   </ul>
 </ul>
-
 <ul>
 <li>Introducción a Classroom</li>
 <li>Crear clase</li>
@@ -141,6 +142,10 @@ Classroom es una red social privada entre alumnos y/o profesores, un lugar donde
   Support.google.com. (2018). Ayuda de Google Drive. [online] Available at: https://support.google.com/drive/?hl=es#topic=7000947 [Accessed 14 Jun. 2018].
 
   Support.google.com. (2018). Ayuda de Calendario de Google. [online] Available at: https://support.google.com/calendar/?hl=es#topic=3417969 [Accessed 14 Jun. 2018].
+
+  Support.google.com. (2018). Cómo crear, editar y dar formato - Ayuda de Editores de Documentos. [online] Available at: https://support.google.com/docs/topic/6063584?hl=es&ref_topic=1360904 [Accessed 14 Jun. 2018].
+
+  Support.office.com. (2018). Combinar correspondencia con una hoja de cálculo de Excel. [online] Available at: https://support.office.com/es-es/article/combinar-correspondencia-con-una-hoja-de-c%C3%A1lculo-de-excel-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3 [Accessed 15 Jun. 2018].
 
   Support.google.com. (2018). Ayuda de Classroom. [online] Available at: https://support.google.com/edu/classroom/?hl=es#topic=6020278 [Accessed 14 Jun. 2018].
 
